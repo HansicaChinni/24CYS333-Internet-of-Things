@@ -7,7 +7,6 @@
 
 ![](https://img.shields.io/badge/Member-Asrita_NL-gold)  ![](https://img.shields.io/badge/Member-Chitla_Vyshali-gold)  ![](https://img.shields.io/badge/Member-Chinni_Nagasree_Hansica-gold) <br/> 
 ![](https://img.shields.io/badge/SDG-11-darkgreen) ![](https://img.shields.io/badge/SDG-9-darkgreen) <br/>
-![](https://img.shields.io/badge/Reviewed-08th_Jan_2025-brown) 
 
 ---
 ### Problem Statement
@@ -69,6 +68,6 @@ The project proposes a Real-Time IoT-Driven Public Transport Scheduling and Trac
 ---
 
 ### References  
-- A. A. Habadi and Y. S. Abu Abdullah, "Keen Safety School Buses System Using RFID and Carbon Dioxide Detection," 2018 first International Conference on Computer Applications and Information Security (ICCAIS), Riyadh, 2018, pp. 1-7. 
+- Habadi, A. A., & AbuAbdullah, Y. S. (2018, April). **Intelligent safety school buses system using RFID and carbon dioxide detection**. In 2018 1st International Conference on Computer Applications & Information Security (ICCAIS) (pp. 1-7). IEEE.
 
 - Leeza Singla, Dr Parteek Bhatia "GPS Based Bus Tracking System" IEEE International Conference on Computer, Communication and Control (IC4-2015).
